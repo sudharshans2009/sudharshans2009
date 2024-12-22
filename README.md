@@ -17,4 +17,4 @@
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,discord,discordjs,django,electron,express,figma,github,html,js,jquery,linux,mongodb,nextjs,nodejs,notion,npm,nuxt,postgres,postman,prisma,py,react,replit,svelte,tailwind,ts,ubuntu,vercel,vite,vscode,webflow" />
 </p>
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudharshans2009&bg_color=0d1117&color=FF3535&line=FF3535&point=878787&area=true&hide_border=true)](https://github.com/sudharshans2009/sudharshans2009)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudharshans2009&bg_color=0d1117&color=FF3535&line=FF3535&point=ff3535&area=true&hide_border=true)](https://github.com/sudharshans2009/sudharshans2009)

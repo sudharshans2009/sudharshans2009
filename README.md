@@ -7,7 +7,7 @@
 
 <div align="center">
   <img width="370px" src="https://github-readme-stats.vercel.app/api?username=sudharshans2009&custom_title=Sudharshan's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=ff3535&text_color=ff3535&icon_color=ff3535&cache_seconds=1800" />
-  <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=sudharshans2009&background=00000000&hide_border=true&stroke=ff3535&ring=4c8ed9&fire=4c8ed9&currStreakNum=ff3535&sideNums=ff3535&currStreakLabel=ff3535&sideLabels=ff3535&dates=ff3535" />
+  <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=sudharshans2009&background=00000000&hide_border=true&stroke=ff3535&ring=ff3535&fire=ff3535&currStreakNum=ff3535&sideNums=ff3535&currStreakLabel=ff3535&sideLabels=ff3535&dates=ff3535" />
 </div>
 
 <br></br>
@@ -17,4 +17,4 @@
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,discord,discordjs,django,electron,express,figma,github,html,js,jquery,linux,mongodb,nextjs,nodejs,notion,npm,nuxt,postgres,postman,prisma,py,react,replit,svelte,tailwind,ts,ubuntu,vercel,vite,vscode,webflow" />
 </p>
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudharshans2009&bg_color=0d1117&color=878787&line=FF3535&point=878787&area=true&hide_border=true)](https://github.com/sudharshans2009/sudharshans2009)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudharshans2009&bg_color=0d1117&color=FF3535&line=FF3535&point=878787&area=true&hide_border=true)](https://github.com/sudharshans2009/sudharshans2009)

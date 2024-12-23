@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,discordjs,electron,express,figma,github,linux,nextjs,nodejs,notion,npm,nuxt,postgres,py,react,replit,tailwind,ubuntu,vercel,vite,vscode" />
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,discord,discordjs,django,electron,express,figma,github,html,js,jquery,linux,mongodb,nextjs,nodejs,notion,npm,nuxt,postgres,postman,prisma,py,react,replit,svelte,tailwind,ts,ubuntu,vercel,vite,vscode,webflow" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,discord,django,html,js,jquery,mongodb,postman,prisma,svelte,webflow" />
     <!--<img src="https://skillicons.dev/icons?i=angular,bootstrap,css,discord,discordjs,django,electron,express,figma,github,html,js,jquery,linux,mongodb,nextjs,nodejs,notion,npm,nuxt,postgres,postman,prisma,py,react,replit,svelte,tailwind,ts,ubuntu,vercel,vite,vscode,webflow" />-->
 </p>
 

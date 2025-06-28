@@ -1,22 +1,103 @@
+# 👋 Hey there! I'm Sudharshan S
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff3535&width=435&lines=👋+Hi+there!+I'm+Sudharshan+S;💻+I+love+building+software+for+fun;🔗+Let's+connect+and+build+projects!" alt="Typing SVG" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=6366F1&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer+%7C+Problem+Solver;Building+digital+experiences+that+matter;Always+learning%2C+always+growing+🚀" alt="Typing SVG" />
+  </a>
 </p>
-<br>
 
 <div align="center">
-  <img width="370px" src="https://github-readme-stats.vercel.app/api?username=sudharshans2009&custom_title=Sudharshan's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=ff3535&text_color=ff3535&icon_color=ff3535&cache_seconds=1800" />
-  <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=sudharshans2009&background=00000000&hide_border=true&stroke=ff3535&ring=ff3535&fire=ff3535&currStreakNum=ff3535&sideNums=ff3535&currStreakLabel=ff3535&sideLabels=ff3535&dates=ff3535" />
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_URL)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
 </div>
 
-<br></br>
+---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudharshans2009&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&ring_color=6366F1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharshans2009&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharshans2009&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6366F1&sideLabels=6366F1&dates=9CA3AF" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discordjs,electron,express,github,nextjs,nodejs,notion,npm,postgres,py,react,tailwind,vercel,vite,vscode" />
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,discord,django,html,js,jquery,mongodb,postman,prisma,svelte,webflow" />
-    <!--<img src="https://skillicons.dev/icons?i=angular,bootstrap,css,discord,discordjs,django,electron,express,figma,github,html,js,jquery,linux,mongodb,nextjs,nodejs,notion,npm,nuxt,postgres,postman,prisma,py,react,replit,svelte,tailwind,ts,ubuntu,vercel,vite,vscode,webflow" />-->
+  <img src="https://skillicons.dev/icons?i=js,py,html,css" />
 </p>
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudharshans2009&bg_color=0d1117&color=FF3535&line=FF3535&point=ff3535&area=true&hide_border=true)](https://github.com/sudharshans2009/sudharshans2009)
+### 🚀 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,bootstrap,jquery,vite" />
+</p>
+
+### ⚡ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
+
+### 🗄️ Databases & Storage
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+</p>
+
+### 🔧 Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github,npm,postman,notion,vercel" />
+</p>
+
+### 🎯 Specialized Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=electron,discordjs,discord,webflow" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudharshans2009&custom_title=Sudharshan's%20Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=F59E0B&area=true&hide_border=true&theme=tokyo-night" width="100%"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 Working on **innovative web applications** with modern frameworks
+- 🌱 Learning **advanced React patterns** and **cloud technologies**
+- 👯 Looking to collaborate on **open-source projects**
+- 💬 Ask me about **JavaScript, React, Node.js, or Python**
+- ⚡ Fun fact: I love turning coffee into code! ☕
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+  
+  <br>
+  
+  💌 **Open to collaborations and interesting conversations!**
+  
+  <img src="https://komarev.com/ghpvc/?username=sudharshans2009&style=for-the-badge&color=6366F1" alt="Profile views" />
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer&animation=fadeIn" width="100%"/>
+</div>

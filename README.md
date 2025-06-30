@@ -47,7 +47,7 @@
 
 ### 🗄️ Databases & Storage
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,drizzle" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
 </p>
 
 ### 🔧 Development Tools

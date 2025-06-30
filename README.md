@@ -32,22 +32,22 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,py,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=rust,py,ts,js,html,css" />
 </p>
 
 ### 🚀 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,bootstrap,jquery,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,bootstrap,vite" />
 </p>
 
 ### ⚡ Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
 
 ### 🗄️ Databases & Storage
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,drizzle" />
 </p>
 
 ### 🔧 Development Tools
@@ -57,7 +57,7 @@
 
 ### 🎯 Specialized Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=electron,discordjs,discord,webflow" />
+  <img src="https://skillicons.dev/icons?i=electron,discordjs,discord,webflow,tauri" />
 </p>
 
 ---

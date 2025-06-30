@@ -32,7 +32,7 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,html,css" />
+  <img src="https://skillicons.dev/icons?i=rust,py,js,html,css" />
 </p>
 
 ### 🚀 Frontend Development

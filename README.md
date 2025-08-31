@@ -34,14 +34,9 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,bootstrap,vite" />
 </p>
 
-### ⚡ Backend Development
+### ⚡ Backend Development & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-</p>
-
-### 🗄️ Databases & Storage
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,prisma" />
 </p>
 
 ### 🔧 Development Tools

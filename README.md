@@ -46,7 +46,7 @@
 
 ### 🎯 Specialized Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=electron,discordjs,discord,webflow,tauri" />
+  <img src="https://skillicons.dev/icons?i=electron,discordjs,discord,webflow,tauri,docker" />
 </p>
 
 ---

@@ -1,11 +1,5 @@
 # 👋 Hey there! I'm Sudharshan S
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=6366F1&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer+%7C+Problem+Solver;Building+digital+experiences+that+matter;Always+learning%2C+always+growing+🚀" alt="Typing SVG" />
-  </a>
-</p>
-
 <div align="center">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=firefox&logoColor=white)](https://www.sudharshans.me)
